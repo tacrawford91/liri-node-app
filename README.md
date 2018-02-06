@@ -2,6 +2,7 @@
 LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and returns specific data.
 
 LIRI will take in the following commands - 
+
 my-tweets   - - - This returns the users last 20 tweets
 
 spotify-this-song '<song name here>'    - - - This returns the following information: Artist, Song Name, Preview Link, The Album
